@@ -1,6 +1,6 @@
 {
   "assertionMethod": [
-    "did:web:andresbu93.github.io:inji-farmer-poc:did"
+    "did:web:andresbu93.github.io:inji-farmer-poc:did#U-G-SUOQR1oFv0yzQM-G4cJw9f_3eq6wOO9LE0PwL2g"
   ],
   "service": [],
   "id": "did:web:andresbu93.github.io:inji-farmer-poc:did",
@@ -18,6 +18,6 @@
   ],
   "alsoKnownAs": [],
   "authentication": [
-    "did:web:andresbu93.github.io:inji-farmer-poc:did"
+    "did:web:andresbu93.github.io:inji-farmer-poc:did#U-G-SUOQR1oFv0yzQM-G4cJw9f_3eq6wOO9LE0PwL2g"
   ]
 }
