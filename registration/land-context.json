@@ -5,8 +5,8 @@
     "@protected": true,
     "type": "@type",
     "schema": "https://schema.org/",
-    "RegistrationReceiptCredential": {
-      "@id": "https://mosip.github.io/inji-config/dev1/registration-receipt-context.json#RegistrationReceiptCredential"
+    "LandStatementCredential": {
+      "@id": "https://mosip.github.io/inji-config/dev1/registration-receipt-context.json#LandStatementCredential"
     },
     "id": "schema:Text",
     "full_name": "schema:Text",
