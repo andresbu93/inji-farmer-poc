@@ -1,0 +1,17 @@
+
+{
+  "@context": {
+    "@version": 1.1,
+    "@protected": true,
+    "type": "@type",
+    "schema": "https://schema.org/",
+    "RegistrationReceiptCredential": {
+      "@id": "https://mosip.github.io/inji-config/dev1/registration-receipt-context.json#RegistrationReceiptCredential"
+    },
+    "id": "schema:Text",
+    "full_name": "schema:Text",
+    "parcel_number": "schema:Float",
+    "area_sq_m": "schema:Float",
+    "issued_at": "schema:DateTime"
+  }
+}
