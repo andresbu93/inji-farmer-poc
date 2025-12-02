@@ -1,7 +1,7 @@
 {
   "assertionMethod": [
     "did:web:andresbu93.github.io:inji-farmer-poc:did-rd"
-  ],
+  ], 
   "service": [],
   "id": "did:web:andresbu93.github.io:inji-farmer-poc:did-rd",
   "verificationMethod": [
