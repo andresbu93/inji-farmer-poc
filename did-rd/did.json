@@ -13,7 +13,7 @@
         "n": "sZpRJgK0hgr39FrTdW4LzAangUcLo1GeEiUMIIkpnhbC2McgEe7dDlRGG1nVpArAhOJvw5CAuKE8qQ1E5Ny4tSrjmHSX2T7hbq53aOAHu6pEYeyGvUUv4AwIl5AIX8Sog0y94n6TPfb2zQf6vRMNW6LZrJU3vY77gnKEZoYy7OpKFP_Lw1ONr2iiMrL3rYoFj4PGNJ9crmUM6lQRQttK1pSWXlZkQpcj41pnlwWF0xbhCBJXtwxF0As8z0RcFs6btRC3mw8FUqEgbItXWJjcvCnwMzKB_D3sotjzJH15Wlit-t5B8qv7r6LixVLY06Wb9a_4v_VKgYsfbQRoXCkzzw"
       },
       "id": "did:web:andresbu93.github.io:inji-farmer-poc:did-rd#is3m-ezr7K9N4042eaGMc4m8-k8Fl1uvNZBTTC_UgYg",
-      "type": "JsonWebKey2020",
+      "type": "RsaVerificationKey2018",
       "@context": "https://w3id.org/security/suites/jws-2020/v1"
     },
     {
