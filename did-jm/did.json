@@ -6,7 +6,7 @@
   "id": "did:web:andresbu93.github.io:inji-farmer-poc:did-jm",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkiqpEyyamjwBh2AsgB3wRCmzzMZkqwm6egH4iybpmXE1M",
+      "publicKeyMultibase": "z6MkknayaEMeg7KFVo8PSFoRrHR6GWYV3MgZN9Z8mNhZGYig",
       "controller": "did:web:andresbu93.github.io:inji-farmer-poc:did-jm",
       "id": "did:web:andresbu93.github.io:inji-farmer-poc:did-jm#9P1-PjtZr3fwTrgppFAhh07u29URRyzMKS4dMy-nYfk",
       "type": "Ed25519VerificationKey2020",
