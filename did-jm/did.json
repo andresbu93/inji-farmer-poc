@@ -6,9 +6,9 @@
   "id": "did:web:andresbu93.github.io:inji-farmer-poc:did-jm",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6Mko1Q8XH9L6dnkbuahEPvHrnHTvXoXxiXB91PN4BaUBBCy",
+      "publicKeyMultibase": "z6Mkrt32B6zq18sAz3aPD2xLjL4Y3K8f7JqC5hXzk41KG3m4",
       "controller": "did:web:andresbu93.github.io:inji-farmer-poc:did-jm",
-      "id": "did:web:andresbu93.github.io:inji-farmer-poc:did-jm#lsiq7t4D32EObAH6ZmVlsY9_A4MupYWG8SL93x1GAXs",
+      "id": "did:web:andresbu93.github.io:inji-farmer-poc:did-jm#e13YWrNB2oDe1LWE_U-8Vn-hd4tdBXNDg-smKgz29OY",
       "type": "Ed25519VerificationKey2020",
       "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
     }
