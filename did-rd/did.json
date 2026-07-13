@@ -10,16 +10,16 @@
       "publicKeyJwk": {
         "kty": "RSA",
         "e": "AQAB",
-        "n": "pPPP5pAk_w8WlZttHxxVDegU_XxWN09IcFFsla2AWAhaB2ru2rHLNZHOdpcA901RwaSY8GVNk7M9Mfvm2GQDIz5ZovIQOVsPqt_loEIcy5lD-jqOhfGmK6L8LQ8gYggp-vqMf0JFi0FV08bBv5QcgQtOHFtOjylKFZijChIMWvHwRGMUunL8xJdTyC_PQUK46BBnc8E1bPGyKYbfZSMIkfp_srC4UiQoD7wxQ0xhsoadjeD0fjdJi21n-5WN-_villuZGjMicrDqQ5AWJORoGhpJssnM1h1Oz8rBbQYQvFPdbI0DA4iUDVfbM-SmsSaDjs9NMRU1UuoatBiJuE3sAw"
+        "n": "m-O5vaR7blNEaUlNYgZaiydThcapZycImFVnk74KQDVv3U0vy2rmQXxcCiU-ctbaKCpwrzxkWO9Pk3Fy4IBNt1-B8i75VrNWC6cQpUYI95kdILdh7w80n_t0BNoO4Eul_HBD5Be84mPLPuokwy0SgS_cfGRSVRwhpSzm-KHCzEDpHFafxU-8_NCEnFYhNIiTP4TW41p-UFEtiqrX971VtUlnN65O7wmwDUxLiyDppkzKvB5jDXzbdzByoo5pemFrzCWun0WfD-j83ZX4-T4Q2jySkRXoT4DEmH-viKKFrc2kQJkT2wQ2sapG8RfJZkHyPqZ0HC_yDBaBQETJt4YpFQ"
       },
-      "id": "did:web:andresbu93.github.io:inji-farmer-poc:did-rd#0pYWWhhqWn05WRR-3Xo3dlS3mw3BFrsWoo_rFT1yf-g",
+      "id": "did:web:andresbu93.github.io:inji-farmer-poc:did-rd#pRF9otxQ9jzS_IGlkjGx3qCxudas5_4wUIXixoBOWKM",
       "type": "JsonWebKey2020",
       "@context": "https://w3id.org/security/suites/jws-2020/v1"
     },
     {
-      "publicKeyMultibase": "z6MkgyibjPkhWsAcnyJVGtatHUJxjfNkrNHgMQWxXbfVweN5",
+      "publicKeyMultibase": "z6MkvFmL1PH8hygZcw2y3UmuMH9ZJSNFHUPRB9TK5Pd5B4ra",
       "controller": "did:web:andresbu93.github.io:inji-farmer-poc:did-rd",
-      "id": "did:web:andresbu93.github.io:inji-farmer-poc:did-rd#srb2lmWCDsKEQrbY9QZwEVSLT_N-09Ng47wZQtq2-rE",
+      "id": "did:web:andresbu93.github.io:inji-farmer-poc:did-rd#HsOAGgmZ-p28c0rSoJRGPkSS7etvQZ1molS35Y1M3YU",
       "type": "Ed25519VerificationKey2020",
       "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
     }
