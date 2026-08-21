@@ -7,19 +7,15 @@
   "verificationMethod": [
     {
       "controller": "did:web:andresbu93.github.io:inji-farmer-poc:did-rd",
-      "publicKeyJwk": {
-        "kty": "RSA",
-        "e": "AQAB",
-        "n": "uzmItHwyf8Tcnmt8_09zoF916nf5snIh8ZrKhGh7wrw9i3FjDNkECygCZ-xoZik-V6hACkkURotHMqOfnF4ywv2mFz9e5f_uVvujGJgU1_uCEJi1xEYrHTre_i44Prw91qEJ9vIC8INphm8eUrZTjU1-B9xdwQIhHYeDW3NkzYNt-t-FCrtsLU_nZnDUEQTxqXbSkZAszKXE1tzuWkT_JgWgqdpSERxUyfYRoSE1ugE-Vaz0xRronDGViEG6_M8iskGh7njKn-TZcpqoUki9SZuF3ExK5qBa3SRznH0SWbRVHEe0QVt0Np-TIabBCCGdZgNlXw0UTm1GVXqljsZEMQ"
-      },
-      "id": "did:web:andresbu93.github.io:inji-farmer-poc:did-rd#_LVqBkrZ7EHe9ZjHIrNp7yETKVsNlOFjKmkFiOjdbRo",
-      "type": "JsonWebKey2020",
-      "@context": "https://w3id.org/security/suites/jws-2020/v1"
+      "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3Z4YCufZfSg+J5tgTg/f\nJmj0BWTaBa2AL4QfkoL9G9L1lfUKybdM+BEWz9NO18kFx+lmBhhd2SJleUgdyvza\nNAEcoYdcZgLiz87EGCxHjghlXNdgYpqTy19F60hWUFbAkoMC7EECSsd7wsFASmpu\nFGJNKuGjC439xdo0N7UfVGQCR/+r3sQLFQOF6qKTGFD0k+5JcZ2f3XTnEQLr+CaI\nczoTzAZYX3zCZNS79VO1rIxnIzOCb4U49Gees2lCU4hC/Gq3CMhEzBN15v0+9Kgw\nzy27Ta+jZUazQeASOXhHkbNJX/+8q6lyLuff9MOh+f9xMiV1eLYcEf4Vpv1tB00j\nKwIDAQAB\n-----END PUBLIC KEY-----",
+      "id": "did:web:andresbu93.github.io:inji-farmer-poc:did-rd#qaFetuiBUkKWJqV4jE6fEwUt-CvWVDBMQ4BaYyZt2vA",
+      "type": "RsaVerificationKey2018",
+      "@context": "https://w3id.org/security/v1"
     },
     {
-      "publicKeyMultibase": "z6MkuR8MSp6d5Z5m4R7g8qciiiErvKBgqp84Nnx561xqvZcp",
+      "publicKeyMultibase": "z6MktHZbNf5a6FrbRDe2nteiJL7w1mAyWPyUX2Lmvrma218w",
       "controller": "did:web:andresbu93.github.io:inji-farmer-poc:did-rd",
-      "id": "did:web:andresbu93.github.io:inji-farmer-poc:did-rd#LOyX8BQDF12mLUEsjwl2bZQ6PETVJEgY8uGkQfg4Fmw",
+      "id": "did:web:andresbu93.github.io:inji-farmer-poc:did-rd#HOebD8Huwa-PvraCqKWJLnL3EOaFDDUvHdVo05FSEWo",
       "type": "Ed25519VerificationKey2020",
       "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
     }
