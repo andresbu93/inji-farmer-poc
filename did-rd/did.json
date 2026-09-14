@@ -7,15 +7,15 @@
   "verificationMethod": [
     {
       "controller": "did:web:andresbu93.github.io:inji-farmer-poc:did-rd",
-      "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA36wuQA98Bp30HRwsI/Bt\nbdV1lUx5vU055G5MplKmIfOiqlmSZbDOfKali/WGaBm5tzZRJW7w4ivqzENh58ki\nPqsiZwxeXd1IrXdH8EkbHc+9O5LH3hpc89eDeTIwCNziVjdNZopt7lZCjc0pB6i/\nO5hv8K8VdiwhidK0k54SV+S//6T9iy0C5fP14XOjS1jbTWpVurAzkYC4nDiOXytK\nmx9pLPPV+3/90UPddX0nWKAiiKjwsY4omxMpb2SfBVeqRmWBVUriziTbfC2GsNJV\nHgrpRlz3wOK01cXOdp+J33j/ASG70wDIZQUvmB4U2PggmpUQYvdvDbkh4UdAMZnW\n3QIDAQAB\n-----END PUBLIC KEY-----",
-      "id": "did:web:andresbu93.github.io:inji-farmer-poc:did-rd#JMTBCCGaYPmQv7g0Y__nyBjVWjy8MPa9_qIyIF0dSDk",
+      "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvRpIzqi60TK5yl9IKBRp\nDpxzTPMzIkcO2Ba3db/dr+14b91+uCOmhE4VSBHDSzNJlDVLJfw5mMnYJnIHdWYP\nWhxtkyF/YThYI5FZmLezjQIyo121NpVRGBetAzvZgsjdGNyYhpXBr2+ZEApMv+hp\nRTbx1hpUUOcQdiiGxkEqPjZKa7mLu0SOEzXJg2Dw4VD35jyKmnGBbmgndk/4GvmS\nrcQSfNSZpR3rcB0/O8fnWYSS4VCH99SUhB48AqMKai/iT2Zw3Nir/5y4Cd5o/xJ8\n5LRrrPVttiJ6YQ8JWKSzIrkiHTgr/e/t7zZwzvZjaoFlflnD+voYWei5v0uB8sXz\niwIDAQAB\n-----END PUBLIC KEY-----",
+      "id": "did:web:andresbu93.github.io:inji-farmer-poc:did-rd#BqLjPXNq1x5iRYh53L_tFjNZZh5Y6fePx0JFjt8XEkA",
       "type": "RsaVerificationKey2018",
       "@context": "https://w3id.org/security/v1"
     },
     {
-      "publicKeyMultibase": "z6MkrsqbZPY6Njm5UN7XJJtKPjfdPhKPLQm8jHtTxB32zJ4f",
+      "publicKeyMultibase": "z6Mkid96dnArWprWTbCJne7VYMQvMnmsRTKU9KJaYwNs2jqn",
       "controller": "did:web:andresbu93.github.io:inji-farmer-poc:did-rd",
-      "id": "did:web:andresbu93.github.io:inji-farmer-poc:did-rd#vwEwmjbtTZthgYg6P6PKhZqEe49HW9Ph77TPJGifBwM",
+      "id": "did:web:andresbu93.github.io:inji-farmer-poc:did-rd#JLAg5Hn5799_LJWGQQQe7YGZnFsZsqcgmwvGkTLyj0c",
       "type": "Ed25519VerificationKey2020",
       "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
     }
